@@ -10,4 +10,4 @@
 
 这些平台提供大量国产中文字幕视频资源，涵盖各类题材，分类清晰，方便用户快速找到所需内容。每个视频页面都标注了影片的时长、画质、演员等详细信息，支持高清播放，并根据网络自动优化画质，确保观影体验顺畅。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/sang20250710/sang5 ）</span>
